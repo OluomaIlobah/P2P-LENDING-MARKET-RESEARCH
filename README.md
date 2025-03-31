@@ -14,6 +14,7 @@ This report outlines the process and insights derived from Market Research and C
 This project is a market research on Peer-to-Peer(P2P) lending platforms; its market dynamics, competitive analysis on product features, pricing models, market share, industry growth rates and adoption trends.
 
 **PRODUCT NAME**: Boro-Boro - Borrowing made easy
+
 Boro-Boro is a peer-to-peer lending platform connecting borrowers who struggle with traditional loans to lenders seeking alternative, socially impactful investments. It enables collateral-free funding through advanced risk assessments, transparent fee structures, and flexible repayment options.
 
 **STAKEHOLDERS**

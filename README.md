@@ -1,35 +1,39 @@
 # P2P-LENDING-MARKET-RESEARCH
 A market research on P2P lending industry.
 
-INTRODUCTION
+**INTRODUCTION**
 This report outlines the process and insights derived from Market Research and Competitor Analysis for Peer-to-Peer lending Product Development. The purpose of the project is to assist a fintench startup, Borrow-Borrow to develop a new solution geared towards optimizing Lender to Borrowers interactions and transactions, while security and integrity across the business ecosystem. Following its early stage of development, my Data Analysis group 2 were tasked with carrying Market Research, Competitor analysis of similar businesses and draw inferences to aid product development.
 
-OUR ROLE AS DATA ANALYSTS
+**OUR ROLE AS DATA ANALYSTS**
 1. Collaborate with the team of Product Managers to understand the product vision and service gaps to be addressed by the intended product development.
 2. Carryout Market Research on existing P2P Lending platforms to identify possible gaps in user experiences, product features, market trends and overall P2P lending landscape.
 3. Draw insights from our findings and communicate with the Product development team.
 
-PROJECT OVERVIEW
+
+**PROJECT OVERVIEW**
 This project is a market research on Peer-to-Peer(P2P) lending platforms; its market dynamics, competitive analysis on product features, pricing models, market share, industry growth rates and adoption trends.
 
-PRODUCT NAME: Boro-Boro - Borrowing made easy
+**PRODUCT NAME**: Boro-Boro - Borrowing made easy
 Boro-Boro is a peer-to-peer lending platform connecting borrowers who struggle with traditional loans to lenders seeking alternative, socially impactful investments. It enables collateral-free funding through advanced risk assessments, transparent fee structures, and flexible repayment options.
 
-STAKEHOLDERS
+**STAKEHOLDERS**
+
 PRODUCT OWNER
 PRODUCT DESIGNERS
 PRODUCT MANAGERS
 DATA ANALYSTS: OLUOMA ILOBAH, OMOTEHINSE OLUWASEUN AND NAFISAT LAWAL
 
-PROBLEM STATEMENT
+
+**PROBLEM STATEMENT**
 Many underserved individuals and small business owners face high collateral requirements and limited credit history, restricting access to affordable financing. Simultaneously, investors lack clear, low-risk, impactful investment opportunities. Boro-Boro bridges this gap with a secure, transparent platform that values alternative credit data.
 
-Objectives:
+**Objectives:**
 - Provide collateral-free loans via innovative risk assessment
 - Enhance financial inclusion with flexible, transparent processes
 - Offer a secure, transparent platform for lenders.
 
-PROJECT METHODOLOGY
+
+**PROJECT METHODOLOGY**
 The methodology of the project follows a systematic approach that involved several key steps:
 
 1. Literature Review: We reviewed P2P lending platforms reports, industry blogs, and business intelligence sources.
@@ -45,17 +49,18 @@ The methodology of the project follows a systematic approach that involved sever
 5. Data Analysis: We performed descriptive analysis to understand user needs and competitor strengths/weaknesses, Conducted SWOT analysis to identify opportunities and threats and 
    Analyzed transaction trends and pain points to identify key areas for improvement and possible competitive edge for the Boro-Boro product.
 
-DATA SOURCES
+**DATA SOURCES**
 We collected Data from reputable industry sources, including:
 - GlobalFintechSeries, Stears, Nairarush, TechpointAfrica, Koboline, Techbuild.africa and Nairametrics.
 
-DATA COLLECTION TOOLS
+**DATA COLLECTION TOOLS**
 Literature Reviews, Web scraping of competitor sites.
 
-DATA ANALYSIS TOOLS
+**DATA ANALYSIS TOOLS**
 Microsoft Excel
 
-ANALYSIS AND RESULTS
+
+**ANALYSIS AND RESULTS**
 Comparative Analysis
 We worked closely with the product management team to gain a deep understanding of the product vision, features, and intended value proposition of Pedmonie.
 

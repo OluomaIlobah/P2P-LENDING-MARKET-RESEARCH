@@ -18,10 +18,10 @@ Boro-Boro is a peer-to-peer lending platform connecting borrowers who struggle w
 
 **STAKEHOLDERS**
 
-PRODUCT OWNER
-PRODUCT DESIGNERS
-PRODUCT MANAGERS
-DATA ANALYSTS: OLUOMA ILOBAH, OMOTEHINSE OLUWASEUN AND NAFISAT LAWAL
+ - PRODUCT OWNER
+ - PRODUCT DESIGNERS
+ - PRODUCT MANAGERS
+ - DATA ANALYSTS: OLUOMA ILOBAH, OMOTEHINSE OLUWASEUN AND NAFISAT LAWAL
 
 
 **PROBLEM STATEMENT**
@@ -70,9 +70,23 @@ We carried out a comparative analysis on top ten (10) P2P starts up offering sim
 
 We also investigated and analysed their features, unique selling points (USPs), problem solved, market research, supported payment method, security compliance and payment authentication, pricing model and opportunities for differentiation
 
+**OUR FINDINGS**
+To increase Use Experience, our findings reveal the need for the following adoption:
+1. Increased Regulation & Compliance
+2. Growth in Alternative Credit Scoring
+   - Mobile transactions
+   - Social media activity
+   - E-commerce behavior
+   - Utility bill payments
+3. Expansion of Loan Offerings
+4. Integration of Blockchain & Smart Contracts
+5. AI-Powered Risk Management & Fraud Prevention
+6. Cross-Border Lending & Expansion
+7. Improved User Experience & Instant Transactions
+8. Rise of Ethical & Sustainable Lending
 
-
-
+**CONCLUSION**
+The P2P lending industry in Nigeria is on a strong growth trajectory, driven by fintech innovation, regulatory improvements, and increasing investor confidence. As technology advances, AI, blockchain, and alternative credit scoring will redefine lending, making it more accessible, secure, and efficient.
 
 
 

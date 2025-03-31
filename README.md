@@ -2,7 +2,7 @@
 A market research on P2P lending industry.
 
 **INTRODUCTION**
-This report outlines the process and insights derived from Market Research and Competitor Analysis for Peer-to-Peer lending Product Development. The purpose of the project is to assist a fintench startup, Borrow-Borrow to develop a new solution geared towards optimizing Lender to Borrowers interactions and transactions, while security and integrity across the business ecosystem. Following its early stage of development, my Data Analysis group 2 were tasked with carrying Market Research, Competitor analysis of similar businesses and draw inferences to aid product development.
+This report outlines the process and insights derived from Market Research and Competitor Analysis for Peer-to-Peer lending Product Development. The purpose of the project is to assist a fintench startup, Boro-Boro to develop a new solution geared towards optimizing Lender to Borrowers interactions and transactions, while security and integrity across the business ecosystem. Following its early stage of development, my Data Analysis group 2 were tasked with carrying Market Research, Competitor analysis of similar businesses and draw inferences to aid product development.
 
 
 **OUR ROLE AS DATA ANALYSTS**

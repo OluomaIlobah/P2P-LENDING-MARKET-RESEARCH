@@ -69,6 +69,7 @@ Microsoft Excel
 
 
 
+
 **ANALYSIS AND RESULTS**
 Comparative Analysis
 We worked closely with the product management team to gain a deep understanding of the product vision, features, and intended value proposition of Pedmonie.

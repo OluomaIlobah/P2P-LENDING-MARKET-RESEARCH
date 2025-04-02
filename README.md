@@ -2,7 +2,7 @@
 A market research on P2P lending industry.
 
 **INTRODUCTION**
-This report outlines the process and insights derived from Market Research and Competitor Analysis for Peer-to-Peer lending Product Development. The purpose of the project is to assist a fintench startup, Boro-Boro to develop a new solution geared towards optimizing Lender to Borrowers interactions and transactions, while security and integrity across the business ecosystem. Following its early stage of development, my Data Analysis group 2 were tasked with carrying Market Research, Competitor analysis of similar businesses and draw inferences to aid product development.
+This report outlines the process and insights derived from Market Research and Competitor Analysis for Peer-to-Peer lending Product Development. The purpose of the project is to assist a fintench startup, Boro-Boro to develop a new solution geared towards optimizing Lender to Borrowers interactions and transactions, while maintaining security and integrity across the business ecosystem. Following its early stage of development, my Data Analysis group 2 were tasked with carrying out Market Research, and Competitor Analysis of similar businesses and draw inferences to aid product development.
 
 
 **OUR ROLE AS DATA ANALYSTS**
@@ -12,7 +12,7 @@ This report outlines the process and insights derived from Market Research and C
 
 
 **PROJECT OVERVIEW**
-This project is a market research on Peer-to-Peer(P2P) lending platforms; its market dynamics, competitive analysis on product features, pricing models, market share, industry growth rates and adoption trends.
+This project is a market research on Peer-to-Peer(P2P) lending platforms; its market dynamics, comparative analysis on product features, pricing models, market share, industry growth rates and adoption trends.
 
 
 **PRODUCT NAME**: Boro-Boro - Borrowing made easy
@@ -43,20 +43,21 @@ The methodology of the project follows a systematic approach that involved sever
 
 1. Literature Review: We reviewed P2P lending platforms reports, industry blogs, and business intelligence sources.
 
-2. Data Collection: We Collected data on competitors’ features, market trends, and user needs majorly through secondary research.
+2. Data Collection: We collected data on competitors’ features, market trends, and user needs majorly through secondary research.
 
-3. Data cleaning: We removed irrelevant entries from collected data, and standardized formats across all data fields to ensure a cleaned dataset ready for transformation and 
-   analysis.
+3. Data cleaning: We removed irrelevant entries from collected data, and standardized formats across all data fields to ensure a cleaned 
+   dataset ready for transformation and analysis.
 
-4. Data transformation: We converted raw data into more strctured and meaningful formats (e.g., categorizations of data fields) and normalized or aggregate data for better comparison 
-   across competitors for in-depth analysis.
+4. Data transformation: We converted raw data into more strctured and meaningful formats (e.g., categorizations of data fields) and 
+   normalized or aggregate data for better comparison across competitors for in-depth analysis.
 
-5. Data Analysis: We performed descriptive analysis to understand user needs and competitor strengths/weaknesses, Conducted SWOT analysis to identify opportunities and threats and 
-   Analyzed transaction trends and pain points to identify key areas for improvement and possible competitive edge for the Boro-Boro product.
+5. Data Analysis: We performed descriptive analysis to understand user needs and competitor strengths/weaknesses, Conducted SWOT analysis 
+   to identify opportunities and threats and Analyzed transaction trends and pain points to identify key areas for improvement and 
+   possible competitive edge for the Boro-Boro product.
 
 
 **DATA SOURCES**
-We collected Data from reputable industry sources, including:
+  We collected Data from reputable industry sources, including:
 - GlobalFintechSeries, Stears, Nairarush, TechpointAfrica, Koboline, Techbuild.africa and Nairametrics.
 
 
@@ -74,15 +75,15 @@ Microsoft Excel
 Comparative Analysis
 We worked closely with the product management team to gain a deep understanding of the product vision, features, and intended value proposition of Boro-Boro.
 
-We gather the required information particularly the Product Requirement Development (PRD) that enabled us carry out a comparatuve Analysis.
+We gathered the required information particularly the Product Requirement Development (PRD) that enabled us carry out a comparative Analysis.
 
-We carried out a comparative analysis on top ten (10) P2P starts up offering similar solution to Boro-Boro, taking cognizance on their demography, Product details and features, Unique selling points (USPs), Problems they are solving and opportunities for competitive edge.
+We carried out a comparative analysis on top ten (10) P2P starts up offering similar solution to Boro-Boro, taking cognizance of their demography, Product details and features, Unique selling points (USPs), Problems they are solving and opportunities for competitive edge.
 
-We also investigated and analysed their features, unique selling points (USPs), problem solved, market research, supported payment method, security compliance and payment authentication, pricing model and opportunities for differentiation
+We also investigated and analyzed their features, unique selling points (USPs, problem solved, market research, supported payment method, security compliance and payment authentication, pricing model and opportunities for differentiation
 
 
 **OUR FINDINGS**
-To increase Use Experience, our findings reveal the need for the following adoption:
+To increase User Experience, our findings reveal the need for the adoption of the following:
 1. Increased Regulation & Compliance
 2. Growth in Alternative Credit Scoring
    - Mobile transactions

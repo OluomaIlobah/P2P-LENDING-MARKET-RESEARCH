@@ -101,6 +101,8 @@ To increase User Experience, our findings reveal the need for the adoption of th
 **CONCLUSION**
 The P2P lending industry in Nigeria is on a strong growth trajectory, driven by fintech innovation, regulatory improvements, and increasing investor confidence. As technology advances, AI, blockchain, and alternative credit scoring will redefine lending, making it more accessible, secure, and efficient.
 
+**View full report in the attachment above**
+
 
 
 
